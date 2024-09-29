@@ -3,10 +3,8 @@
 ---
 
 ## Bibliotecas necessárias
-### ~pygame~ `pip install pygame`
-### ~sys~ `pip install os-sys`
-### ~numpy~ `pip install numpy`
-
+### pygame `pip install pygame`
+### sys `pip install os-sys`
+### numpy `pip install numpy`
 
 ![JogoDaVelha](https://github.com/user-attachments/assets/e2ffb362-8b35-4170-990d-ffffc84b1021)
-
