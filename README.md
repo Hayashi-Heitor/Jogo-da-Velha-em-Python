@@ -10,4 +10,7 @@
 ### numpy 
 `pip install numpy`
 
+## Uso
+### Pressione 'R' para reiniciar a tela
+
 ![JogoDaVelha](https://github.com/user-attachments/assets/e2ffb362-8b35-4170-990d-ffffc84b1021)
